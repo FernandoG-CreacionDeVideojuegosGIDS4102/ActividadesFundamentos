@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/d9b9bd1b-b949-4fa5-9b21-5f422c862819
 
 ### Prototipo 2 Movimiento y eliminar enemigos
 
-[Descargar Protipo 2](https://github.com/FernandoG-CreacionDeVideojuegosGIDS4102/ActividadesFundamentos/blob/main/Prototipo%202.unitypackage)
+[Descargar Prototipo 2](https://github.com/FernandoG-CreacionDeVideojuegosGIDS4102/ActividadesFundamentos/raw/main/Prototipo%202.unitypackage)
 
 1. El prototipo 2 consistia en agregar a un personaje y otros assets como animales o comida, despues de esto agregar el movimiento y ademas darle la funcionalidad al personaje de "disparar" y eliminar a los enemigos.
 
