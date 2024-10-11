@@ -18,6 +18,8 @@
 ## Prototipos
 
 ### Prototipo 1 Movimiento del automovil
+[Descargar Protipo 1.unitypackage](https://github.com/FernandoG-CreacionDeVideojuegosGIDS4102/ActividadesFundamentos/raw/main/Protipo%201.unitypackage)
+
 
 1. Se realizo la creacion del prototipo 1 importando los assets proporcionados, colocando una camioneta en la ruta.
 
