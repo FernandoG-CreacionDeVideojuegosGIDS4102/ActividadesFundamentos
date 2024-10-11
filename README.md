@@ -17,7 +17,7 @@
 
 ## Prototipos
 
-* Prototipo 1 Movimiento del automovil
+### Prototipo 1 Movimiento del automovil
 
 1. Se realizo la creacion del prototipo 1 importando los assets proporcionados, colocando una camioneta en la ruta.
 
@@ -41,7 +41,7 @@
  
 https://github.com/user-attachments/assets/d9b9bd1b-b949-4fa5-9b21-5f422c862819
 
-* Prototipo 2 Movimiento del automovil
+### Prototipo 2 Movimiento del automovil
 
 ## Challenges
 
