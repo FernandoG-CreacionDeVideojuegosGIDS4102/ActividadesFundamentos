@@ -18,7 +18,7 @@
 ## Prototipos
 
 ### Prototipo 1 Movimiento del automovil
-[Descargar Protipo 1.unitypackage](https://github.com/FernandoG-CreacionDeVideojuegosGIDS4102/ActividadesFundamentos/raw/main/Protipo%201.unitypackage)
+[Descargar Protipo 1](https://github.com/FernandoG-CreacionDeVideojuegosGIDS4102/ActividadesFundamentos/raw/main/Protipo%201.unitypackage)
 
 
 1. Se realizo la creacion del prototipo 1 importando los assets proporcionados, colocando una camioneta en la ruta.
@@ -44,6 +44,8 @@
 https://github.com/user-attachments/assets/d9b9bd1b-b949-4fa5-9b21-5f422c862819
 
 ### Prototipo 2 Movimiento y eliminar enemigos
+
+[Descargar Protipo 2](https://github.com/FernandoG-CreacionDeVideojuegosGIDS4102/ActividadesFundamentos/blob/main/Prototipo%202.unitypackage)
 
 1. El prototipo 2 consistia en agregar a un personaje y otros assets como animales o comida, despues de esto agregar el movimiento y ademas darle la funcionalidad al personaje de "disparar" y eliminar a los enemigos.
 
