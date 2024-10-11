@@ -11,7 +11,6 @@
 ## Contenido
 
 - [Prototipos](#prototipos)
-- [Challenges](#challenges)
 - [Autores](#autores)
 
 
@@ -99,8 +98,6 @@ https://github.com/user-attachments/assets/d9b9bd1b-b949-4fa5-9b21-5f422c862819
 5. Funcionalidad del prototipo 2
 
 https://github.com/user-attachments/assets/a3eb9ead-37f0-40c4-8c28-39cedbc2fd5b
-
-## Challenges
 
 ## Autores
 Jesus Fernando Gonzalez Pedroza
